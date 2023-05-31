@@ -1,0 +1,6 @@
+
+npm install --save json-server
+npm install --save concurrently
+npm install --save bootstrap
+npm install --save jquery
+npm install --save font-awesome

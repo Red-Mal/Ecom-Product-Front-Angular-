@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer",
+      "price": "9999",
+      "quantity": 600,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "SmartPhone",
+      "price": 1200,
+      "quantity": 100,
+      "selected": false,
+      "available": true
+    },
+    {
+      "name": "Iphone 14",
+      "price": "12000",
+      "quantity": "40",
+      "selected": true,
+      "available": true,
+      "id": 4
+    }
+  ]
+}
